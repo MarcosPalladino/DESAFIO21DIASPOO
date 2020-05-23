@@ -1,0 +1,27 @@
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Biblioteca\bin\Debug\netcoreapp2.1\Biblioteca.deps.json
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Biblioteca\bin\Debug\netcoreapp2.1\Biblioteca.dll
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Biblioteca\bin\Debug\netcoreapp2.1\Biblioteca.pdb
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Biblioteca\obj\Debug\netcoreapp2.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Biblioteca\obj\Debug\netcoreapp2.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Biblioteca\obj\Debug\netcoreapp2.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Biblioteca\obj\Debug\netcoreapp2.1\Biblioteca.AssemblyInfo.cs
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Biblioteca\obj\Debug\netcoreapp2.1\Biblioteca.dll
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Biblioteca\obj\Debug\netcoreapp2.1\Biblioteca.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Biblioteca\bin\Debug\netcoreapp2.1\Biblioteca.deps.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Biblioteca\bin\Debug\netcoreapp2.1\Biblioteca.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Biblioteca\bin\Debug\netcoreapp2.1\Biblioteca.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Biblioteca\obj\Debug\netcoreapp2.1\Biblioteca.AssemblyInfoInputs.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Biblioteca\obj\Debug\netcoreapp2.1\Biblioteca.AssemblyInfo.cs
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Biblioteca\obj\Debug\netcoreapp2.1\Biblioteca.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Biblioteca\obj\Debug\netcoreapp2.1\Biblioteca.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Biblioteca\obj\Debug\netcoreapp2.1\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Biblioteca\obj\Debug\netcoreapp2.1\Biblioteca.csprojAssemblyReference.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Biblioteca\bin\Debug\netcoreapp2.1\Biblioteca.deps.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Biblioteca\bin\Debug\netcoreapp2.1\Biblioteca.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Biblioteca\bin\Debug\netcoreapp2.1\Biblioteca.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Biblioteca\obj\Debug\netcoreapp2.1\Biblioteca.AssemblyInfoInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Biblioteca\obj\Debug\netcoreapp2.1\Biblioteca.AssemblyInfo.cs
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Biblioteca\obj\Debug\netcoreapp2.1\Biblioteca.csproj.CoreCompileInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Biblioteca\obj\Debug\netcoreapp2.1\Biblioteca.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Biblioteca\obj\Debug\netcoreapp2.1\Biblioteca.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Biblioteca\obj\Debug\netcoreapp2.1\Biblioteca.csprojAssemblyReference.cache

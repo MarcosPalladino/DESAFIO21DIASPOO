@@ -1,0 +1,13 @@
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoQuartoDia\bin\Debug\netcoreapp3.1\DecimoQuartoDia.exe
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoQuartoDia\bin\Debug\netcoreapp3.1\DecimoQuartoDia.deps.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoQuartoDia\bin\Debug\netcoreapp3.1\DecimoQuartoDia.runtimeconfig.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoQuartoDia\bin\Debug\netcoreapp3.1\DecimoQuartoDia.runtimeconfig.dev.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoQuartoDia\bin\Debug\netcoreapp3.1\DecimoQuartoDia.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoQuartoDia\bin\Debug\netcoreapp3.1\DecimoQuartoDia.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoQuartoDia\obj\Debug\netcoreapp3.1\DecimoQuartoDia.AssemblyInfoInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoQuartoDia\obj\Debug\netcoreapp3.1\DecimoQuartoDia.AssemblyInfo.cs
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoQuartoDia\obj\Debug\netcoreapp3.1\DecimoQuartoDia.csproj.CoreCompileInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoQuartoDia\obj\Debug\netcoreapp3.1\DecimoQuartoDia.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoQuartoDia\obj\Debug\netcoreapp3.1\DecimoQuartoDia.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoQuartoDia\obj\Debug\netcoreapp3.1\DecimoQuartoDia.genruntimeconfig.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoQuartoDia\obj\Debug\netcoreapp3.1\DecimoQuartoDia.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\DesafioNonoDia\bin\Debug\netcoreapp2.1\DesafioNonoDia.deps.json
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\DesafioNonoDia\bin\Debug\netcoreapp2.1\DesafioNonoDia.runtimeconfig.json
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\DesafioNonoDia\bin\Debug\netcoreapp2.1\DesafioNonoDia.runtimeconfig.dev.json
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\DesafioNonoDia\bin\Debug\netcoreapp2.1\DesafioNonoDia.dll
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\DesafioNonoDia\bin\Debug\netcoreapp2.1\DesafioNonoDia.pdb
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\DesafioNonoDia\obj\Debug\netcoreapp2.1\DesafioNonoDia.csproj.CoreCompileInputs.cache
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\DesafioNonoDia\obj\Debug\netcoreapp2.1\DesafioNonoDia.AssemblyInfoInputs.cache
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\DesafioNonoDia\obj\Debug\netcoreapp2.1\DesafioNonoDia.AssemblyInfo.cs
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\DesafioNonoDia\obj\Debug\netcoreapp2.1\DesafioNonoDia.dll
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\DesafioNonoDia\obj\Debug\netcoreapp2.1\DesafioNonoDia.pdb

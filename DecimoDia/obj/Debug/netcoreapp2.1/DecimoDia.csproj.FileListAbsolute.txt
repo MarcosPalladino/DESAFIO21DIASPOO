@@ -1,0 +1,24 @@
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoDia\bin\Debug\netcoreapp2.1\DecimoDia.deps.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoDia\bin\Debug\netcoreapp2.1\DecimoDia.runtimeconfig.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoDia\bin\Debug\netcoreapp2.1\DecimoDia.runtimeconfig.dev.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoDia\bin\Debug\netcoreapp2.1\DecimoDia.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoDia\bin\Debug\netcoreapp2.1\DecimoDia.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoDia\obj\Debug\netcoreapp2.1\DecimoDia.AssemblyInfoInputs.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoDia\obj\Debug\netcoreapp2.1\DecimoDia.AssemblyInfo.cs
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoDia\obj\Debug\netcoreapp2.1\DecimoDia.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoDia\obj\Debug\netcoreapp2.1\DecimoDia.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoDia\obj\Debug\netcoreapp2.1\DecimoDia.genruntimeconfig.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoDia\obj\Debug\netcoreapp2.1\DecimoDia.csproj.CoreCompileInputs.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoDia\obj\Debug\netcoreapp2.1\DecimoDia.csprojAssemblyReference.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoDia\bin\Debug\netcoreapp2.1\DecimoDia.deps.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoDia\bin\Debug\netcoreapp2.1\DecimoDia.runtimeconfig.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoDia\bin\Debug\netcoreapp2.1\DecimoDia.runtimeconfig.dev.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoDia\bin\Debug\netcoreapp2.1\DecimoDia.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoDia\bin\Debug\netcoreapp2.1\DecimoDia.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoDia\obj\Debug\netcoreapp2.1\DecimoDia.AssemblyInfoInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoDia\obj\Debug\netcoreapp2.1\DecimoDia.AssemblyInfo.cs
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoDia\obj\Debug\netcoreapp2.1\DecimoDia.csproj.CoreCompileInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoDia\obj\Debug\netcoreapp2.1\DecimoDia.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoDia\obj\Debug\netcoreapp2.1\DecimoDia.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoDia\obj\Debug\netcoreapp2.1\DecimoDia.genruntimeconfig.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoDia\obj\Debug\netcoreapp2.1\DecimoDia.csprojAssemblyReference.cache

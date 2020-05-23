@@ -1,0 +1,44 @@
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Desafio21diasReferencias.deps.json
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Desafio21diasReferencias.runtimeconfig.json
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Desafio21diasReferencias.runtimeconfig.dev.json
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Desafio21diasReferencias.dll
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Desafio21diasReferencias.pdb
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Biblioteca.dll
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Biblioteca.pdb
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.csprojAssemblyReference.cache
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.csproj.CoreCompileInputs.cache
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.AssemblyInfoInputs.cache
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.AssemblyInfo.cs
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.csproj.CopyComplete
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.dll
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Desafio21diasReferencias.deps.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Desafio21diasReferencias.runtimeconfig.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Desafio21diasReferencias.runtimeconfig.dev.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Desafio21diasReferencias.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Desafio21diasReferencias.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Biblioteca.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Biblioteca.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.csprojAssemblyReference.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.AssemblyInfoInputs.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.AssemblyInfo.cs
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.csproj.CopyComplete
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.genruntimeconfig.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.csproj.CoreCompileInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Desafio21diasReferencias.deps.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Desafio21diasReferencias.runtimeconfig.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Desafio21diasReferencias.runtimeconfig.dev.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Desafio21diasReferencias.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Desafio21diasReferencias.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Biblioteca.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21diasReferencias\bin\Debug\netcoreapp2.1\Biblioteca.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.csprojAssemblyReference.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.AssemblyInfoInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.AssemblyInfo.cs
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.csproj.CoreCompileInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.csproj.CopyComplete
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21diasReferencias\obj\Debug\netcoreapp2.1\Desafio21diasReferencias.genruntimeconfig.cache

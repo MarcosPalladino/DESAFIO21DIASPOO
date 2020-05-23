@@ -1,0 +1,43 @@
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoTerceiroDia\obj\Debug\netcoreapp3.1\DecimoTerceiroDia.csprojAssemblyReference.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoTerceiroDia\obj\Debug\netcoreapp3.1\DecimoTerceiroDia.AssemblyInfoInputs.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoTerceiroDia\obj\Debug\netcoreapp3.1\DecimoTerceiroDia.AssemblyInfo.cs
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoTerceiroDia\obj\Debug\netcoreapp3.1\DecimoTerceiroDia.csproj.CoreCompileInputs.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\DecimoTerceiroDia.exe
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoTerceiroDia\obj\Debug\netcoreapp3.1\DecimoTerceiroDia.csproj.CopyComplete
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\obj\Debug\netcoreapp3.1\DecimoTerceiroDia.AssemblyInfoInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\obj\Debug\netcoreapp3.1\DecimoTerceiroDia.AssemblyInfo.cs
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\obj\Debug\netcoreapp3.1\DecimoTerceiroDia.csproj.CoreCompileInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\DecimoTerceiroDia.exe
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\DecimoTerceiroDia.dll.config
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\DecimoTerceiroDia.deps.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\DecimoTerceiroDia.runtimeconfig.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\DecimoTerceiroDia.runtimeconfig.dev.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\DecimoTerceiroDia.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\DecimoTerceiroDia.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\obj\Debug\netcoreapp3.1\DecimoTerceiroDia.csproj.CopyComplete
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\obj\Debug\netcoreapp3.1\DecimoTerceiroDia.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\obj\Debug\netcoreapp3.1\DecimoTerceiroDia.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\obj\Debug\netcoreapp3.1\DecimoTerceiroDia.genruntimeconfig.cache

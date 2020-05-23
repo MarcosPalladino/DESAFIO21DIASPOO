@@ -1,0 +1,33 @@
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21dias\bin\Debug\netcoreapp2.1\Desafio21dias.deps.json
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21dias\bin\Debug\netcoreapp2.1\Desafio21dias.runtimeconfig.json
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21dias\bin\Debug\netcoreapp2.1\Desafio21dias.runtimeconfig.dev.json
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21dias\bin\Debug\netcoreapp2.1\Desafio21dias.dll
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21dias\bin\Debug\netcoreapp2.1\Desafio21dias.pdb
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.csprojAssemblyReference.cache
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.csproj.CoreCompileInputs.cache
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.AssemblyInfoInputs.cache
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.AssemblyInfo.cs
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.dll
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21dias\bin\Debug\netcoreapp2.1\Desafio21dias.deps.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21dias\bin\Debug\netcoreapp2.1\Desafio21dias.runtimeconfig.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21dias\bin\Debug\netcoreapp2.1\Desafio21dias.runtimeconfig.dev.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21dias\bin\Debug\netcoreapp2.1\Desafio21dias.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21dias\bin\Debug\netcoreapp2.1\Desafio21dias.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.AssemblyInfoInputs.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.AssemblyInfo.cs
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.genruntimeconfig.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.csproj.CoreCompileInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21dias\bin\Debug\netcoreapp2.1\Desafio21dias.deps.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21dias\bin\Debug\netcoreapp2.1\Desafio21dias.runtimeconfig.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21dias\bin\Debug\netcoreapp2.1\Desafio21dias.runtimeconfig.dev.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21dias\bin\Debug\netcoreapp2.1\Desafio21dias.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21dias\bin\Debug\netcoreapp2.1\Desafio21dias.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.AssemblyInfoInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.AssemblyInfo.cs
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.csproj.CoreCompileInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.genruntimeconfig.cache

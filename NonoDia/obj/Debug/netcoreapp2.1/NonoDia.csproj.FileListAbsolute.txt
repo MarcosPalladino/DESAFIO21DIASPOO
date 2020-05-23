@@ -1,0 +1,22 @@
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\NonoDia\bin\Debug\netcoreapp2.1\NonoDia.deps.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\NonoDia\bin\Debug\netcoreapp2.1\NonoDia.runtimeconfig.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\NonoDia\bin\Debug\netcoreapp2.1\NonoDia.runtimeconfig.dev.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\NonoDia\bin\Debug\netcoreapp2.1\NonoDia.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\NonoDia\bin\Debug\netcoreapp2.1\NonoDia.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\NonoDia\obj\Debug\netcoreapp2.1\NonoDia.AssemblyInfoInputs.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\NonoDia\obj\Debug\netcoreapp2.1\NonoDia.AssemblyInfo.cs
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\NonoDia\obj\Debug\netcoreapp2.1\NonoDia.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\NonoDia\obj\Debug\netcoreapp2.1\NonoDia.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\NonoDia\obj\Debug\netcoreapp2.1\NonoDia.genruntimeconfig.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\NonoDia\obj\Debug\netcoreapp2.1\NonoDia.csproj.CoreCompileInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\NonoDia\bin\Debug\netcoreapp2.1\NonoDia.deps.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\NonoDia\bin\Debug\netcoreapp2.1\NonoDia.runtimeconfig.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\NonoDia\bin\Debug\netcoreapp2.1\NonoDia.runtimeconfig.dev.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\NonoDia\bin\Debug\netcoreapp2.1\NonoDia.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\NonoDia\bin\Debug\netcoreapp2.1\NonoDia.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\NonoDia\obj\Debug\netcoreapp2.1\NonoDia.AssemblyInfoInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\NonoDia\obj\Debug\netcoreapp2.1\NonoDia.AssemblyInfo.cs
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\NonoDia\obj\Debug\netcoreapp2.1\NonoDia.csproj.CoreCompileInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\NonoDia\obj\Debug\netcoreapp2.1\NonoDia.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\NonoDia\obj\Debug\netcoreapp2.1\NonoDia.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\NonoDia\obj\Debug\netcoreapp2.1\NonoDia.genruntimeconfig.cache

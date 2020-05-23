@@ -1,0 +1,32 @@
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\HerancaProtectedMetodo\bin\Debug\netcoreapp2.1\HerancaProtectedMetodo.deps.json
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\HerancaProtectedMetodo\bin\Debug\netcoreapp2.1\HerancaProtectedMetodo.runtimeconfig.json
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\HerancaProtectedMetodo\bin\Debug\netcoreapp2.1\HerancaProtectedMetodo.runtimeconfig.dev.json
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\HerancaProtectedMetodo\bin\Debug\netcoreapp2.1\HerancaProtectedMetodo.dll
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\HerancaProtectedMetodo\bin\Debug\netcoreapp2.1\HerancaProtectedMetodo.pdb
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\HerancaProtectedMetodo\obj\Debug\netcoreapp2.1\HerancaProtectedMetodo.csproj.CoreCompileInputs.cache
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\HerancaProtectedMetodo\obj\Debug\netcoreapp2.1\HerancaProtectedMetodo.AssemblyInfoInputs.cache
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\HerancaProtectedMetodo\obj\Debug\netcoreapp2.1\HerancaProtectedMetodo.AssemblyInfo.cs
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\HerancaProtectedMetodo\obj\Debug\netcoreapp2.1\HerancaProtectedMetodo.dll
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\HerancaProtectedMetodo\obj\Debug\netcoreapp2.1\HerancaProtectedMetodo.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\HerancaProtectedMetodo\bin\Debug\netcoreapp2.1\HerancaProtectedMetodo.deps.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\HerancaProtectedMetodo\bin\Debug\netcoreapp2.1\HerancaProtectedMetodo.runtimeconfig.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\HerancaProtectedMetodo\bin\Debug\netcoreapp2.1\HerancaProtectedMetodo.runtimeconfig.dev.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\HerancaProtectedMetodo\bin\Debug\netcoreapp2.1\HerancaProtectedMetodo.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\HerancaProtectedMetodo\bin\Debug\netcoreapp2.1\HerancaProtectedMetodo.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\HerancaProtectedMetodo\obj\Debug\netcoreapp2.1\HerancaProtectedMetodo.AssemblyInfoInputs.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\HerancaProtectedMetodo\obj\Debug\netcoreapp2.1\HerancaProtectedMetodo.AssemblyInfo.cs
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\HerancaProtectedMetodo\obj\Debug\netcoreapp2.1\HerancaProtectedMetodo.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\HerancaProtectedMetodo\obj\Debug\netcoreapp2.1\HerancaProtectedMetodo.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\HerancaProtectedMetodo\obj\Debug\netcoreapp2.1\HerancaProtectedMetodo.genruntimeconfig.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\HerancaProtectedMetodo\obj\Debug\netcoreapp2.1\HerancaProtectedMetodo.csproj.CoreCompileInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\HerancaProtectedMetodo\bin\Debug\netcoreapp2.1\HerancaProtectedMetodo.deps.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\HerancaProtectedMetodo\bin\Debug\netcoreapp2.1\HerancaProtectedMetodo.runtimeconfig.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\HerancaProtectedMetodo\bin\Debug\netcoreapp2.1\HerancaProtectedMetodo.runtimeconfig.dev.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\HerancaProtectedMetodo\bin\Debug\netcoreapp2.1\HerancaProtectedMetodo.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\HerancaProtectedMetodo\bin\Debug\netcoreapp2.1\HerancaProtectedMetodo.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\HerancaProtectedMetodo\obj\Debug\netcoreapp2.1\HerancaProtectedMetodo.AssemblyInfoInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\HerancaProtectedMetodo\obj\Debug\netcoreapp2.1\HerancaProtectedMetodo.AssemblyInfo.cs
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\HerancaProtectedMetodo\obj\Debug\netcoreapp2.1\HerancaProtectedMetodo.csproj.CoreCompileInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\HerancaProtectedMetodo\obj\Debug\netcoreapp2.1\HerancaProtectedMetodo.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\HerancaProtectedMetodo\obj\Debug\netcoreapp2.1\HerancaProtectedMetodo.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\HerancaProtectedMetodo\obj\Debug\netcoreapp2.1\HerancaProtectedMetodo.genruntimeconfig.cache

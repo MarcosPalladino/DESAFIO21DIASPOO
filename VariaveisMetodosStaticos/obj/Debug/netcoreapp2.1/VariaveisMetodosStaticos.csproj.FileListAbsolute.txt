@@ -1,0 +1,33 @@
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\VariaveisMetodosStaticos\bin\Debug\netcoreapp2.1\VariaveisMetodosStaticos.deps.json
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\VariaveisMetodosStaticos\bin\Debug\netcoreapp2.1\VariaveisMetodosStaticos.runtimeconfig.json
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\VariaveisMetodosStaticos\bin\Debug\netcoreapp2.1\VariaveisMetodosStaticos.runtimeconfig.dev.json
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\VariaveisMetodosStaticos\bin\Debug\netcoreapp2.1\VariaveisMetodosStaticos.dll
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\VariaveisMetodosStaticos\bin\Debug\netcoreapp2.1\VariaveisMetodosStaticos.pdb
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\VariaveisMetodosStaticos\obj\Debug\netcoreapp2.1\VariaveisMetodosStaticos.csproj.CoreCompileInputs.cache
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\VariaveisMetodosStaticos\obj\Debug\netcoreapp2.1\VariaveisMetodosStaticos.AssemblyInfoInputs.cache
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\VariaveisMetodosStaticos\obj\Debug\netcoreapp2.1\VariaveisMetodosStaticos.AssemblyInfo.cs
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\VariaveisMetodosStaticos\obj\Debug\netcoreapp2.1\VariaveisMetodosStaticos.dll
+C:\Users\MarcosPalladino\Source\Repos\Desafio21diasReferencias\VariaveisMetodosStaticos\obj\Debug\netcoreapp2.1\VariaveisMetodosStaticos.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\VariaveisMetodosStaticos\bin\Debug\netcoreapp2.1\VariaveisMetodosStaticos.deps.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\VariaveisMetodosStaticos\bin\Debug\netcoreapp2.1\VariaveisMetodosStaticos.runtimeconfig.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\VariaveisMetodosStaticos\bin\Debug\netcoreapp2.1\VariaveisMetodosStaticos.runtimeconfig.dev.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\VariaveisMetodosStaticos\bin\Debug\netcoreapp2.1\VariaveisMetodosStaticos.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\VariaveisMetodosStaticos\bin\Debug\netcoreapp2.1\VariaveisMetodosStaticos.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\VariaveisMetodosStaticos\obj\Debug\netcoreapp2.1\VariaveisMetodosStaticos.AssemblyInfoInputs.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\VariaveisMetodosStaticos\obj\Debug\netcoreapp2.1\VariaveisMetodosStaticos.AssemblyInfo.cs
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\VariaveisMetodosStaticos\obj\Debug\netcoreapp2.1\VariaveisMetodosStaticos.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\VariaveisMetodosStaticos\obj\Debug\netcoreapp2.1\VariaveisMetodosStaticos.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\VariaveisMetodosStaticos\obj\Debug\netcoreapp2.1\VariaveisMetodosStaticos.genruntimeconfig.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\VariaveisMetodosStaticos\obj\Debug\netcoreapp2.1\VariaveisMetodosStaticos.csproj.CoreCompileInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\VariaveisMetodosStaticos\bin\Debug\netcoreapp2.1\VariaveisMetodosStaticos.deps.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\VariaveisMetodosStaticos\bin\Debug\netcoreapp2.1\VariaveisMetodosStaticos.runtimeconfig.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\VariaveisMetodosStaticos\bin\Debug\netcoreapp2.1\VariaveisMetodosStaticos.runtimeconfig.dev.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\VariaveisMetodosStaticos\bin\Debug\netcoreapp2.1\VariaveisMetodosStaticos.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\VariaveisMetodosStaticos\bin\Debug\netcoreapp2.1\VariaveisMetodosStaticos.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\VariaveisMetodosStaticos\obj\Debug\netcoreapp2.1\VariaveisMetodosStaticos.AssemblyInfoInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\VariaveisMetodosStaticos\obj\Debug\netcoreapp2.1\VariaveisMetodosStaticos.AssemblyInfo.cs
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\VariaveisMetodosStaticos\obj\Debug\netcoreapp2.1\VariaveisMetodosStaticos.csproj.CoreCompileInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\VariaveisMetodosStaticos\obj\Debug\netcoreapp2.1\VariaveisMetodosStaticos.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\VariaveisMetodosStaticos\obj\Debug\netcoreapp2.1\VariaveisMetodosStaticos.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\VariaveisMetodosStaticos\obj\Debug\netcoreapp2.1\VariaveisMetodosStaticos.genruntimeconfig.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\VariaveisMetodosStaticos\obj\Debug\netcoreapp2.1\VariaveisMetodosStaticos.csprojAssemblyReference.cache

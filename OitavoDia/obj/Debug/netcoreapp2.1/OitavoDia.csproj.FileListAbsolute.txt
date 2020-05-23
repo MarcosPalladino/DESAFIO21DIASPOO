@@ -1,0 +1,23 @@
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\OitavoDia\bin\Debug\netcoreapp2.1\OitavoDia.deps.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\OitavoDia\bin\Debug\netcoreapp2.1\OitavoDia.runtimeconfig.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\OitavoDia\bin\Debug\netcoreapp2.1\OitavoDia.runtimeconfig.dev.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\OitavoDia\bin\Debug\netcoreapp2.1\OitavoDia.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\OitavoDia\bin\Debug\netcoreapp2.1\OitavoDia.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\OitavoDia\obj\Debug\netcoreapp2.1\OitavoDia.AssemblyInfoInputs.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\OitavoDia\obj\Debug\netcoreapp2.1\OitavoDia.AssemblyInfo.cs
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\OitavoDia\obj\Debug\netcoreapp2.1\OitavoDia.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\OitavoDia\obj\Debug\netcoreapp2.1\OitavoDia.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\OitavoDia\obj\Debug\netcoreapp2.1\OitavoDia.genruntimeconfig.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\OitavoDia\obj\Debug\netcoreapp2.1\OitavoDia.csproj.CoreCompileInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\OitavoDia\bin\Debug\netcoreapp2.1\OitavoDia.deps.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\OitavoDia\bin\Debug\netcoreapp2.1\OitavoDia.runtimeconfig.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\OitavoDia\bin\Debug\netcoreapp2.1\OitavoDia.runtimeconfig.dev.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\OitavoDia\bin\Debug\netcoreapp2.1\OitavoDia.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\OitavoDia\bin\Debug\netcoreapp2.1\OitavoDia.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\OitavoDia\obj\Debug\netcoreapp2.1\OitavoDia.AssemblyInfoInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\OitavoDia\obj\Debug\netcoreapp2.1\OitavoDia.AssemblyInfo.cs
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\OitavoDia\obj\Debug\netcoreapp2.1\OitavoDia.csproj.CoreCompileInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\OitavoDia\obj\Debug\netcoreapp2.1\OitavoDia.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\OitavoDia\obj\Debug\netcoreapp2.1\OitavoDia.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\OitavoDia\obj\Debug\netcoreapp2.1\OitavoDia.genruntimeconfig.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\OitavoDia\obj\Debug\netcoreapp2.1\OitavoDia.csprojAssemblyReference.cache

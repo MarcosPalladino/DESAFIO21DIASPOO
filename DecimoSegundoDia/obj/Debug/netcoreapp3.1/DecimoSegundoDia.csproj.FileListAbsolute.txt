@@ -1,0 +1,64 @@
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\DecimoSegundoDia.exe
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\DecimoSegundoDia.deps.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\DecimoSegundoDia.runtimeconfig.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\DecimoSegundoDia.runtimeconfig.dev.json
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\DecimoSegundoDia.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\DecimoSegundoDia.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\obj\Debug\netcoreapp3.1\DecimoSegundoDia.csprojAssemblyReference.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\obj\Debug\netcoreapp3.1\DecimoSegundoDia.AssemblyInfoInputs.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\obj\Debug\netcoreapp3.1\DecimoSegundoDia.AssemblyInfo.cs
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\obj\Debug\netcoreapp3.1\DecimoSegundoDia.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\obj\Debug\netcoreapp3.1\DecimoSegundoDia.pdb
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\obj\Debug\netcoreapp3.1\DecimoSegundoDia.genruntimeconfig.cache
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\DecimoSegundoDia.dll.config
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\obj\Debug\netcoreapp3.1\DecimoSegundoDia.csproj.CopyComplete
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\MarcosPalladino\Source\Repos\Desafio21Dias\DecimoSegundoDia\obj\Debug\netcoreapp3.1\DecimoSegundoDia.csproj.CoreCompileInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\obj\Debug\netcoreapp3.1\DecimoSegundoDia.csprojAssemblyReference.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\obj\Debug\netcoreapp3.1\DecimoSegundoDia.AssemblyInfoInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\obj\Debug\netcoreapp3.1\DecimoSegundoDia.AssemblyInfo.cs
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\obj\Debug\netcoreapp3.1\DecimoSegundoDia.csproj.CoreCompileInputs.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\obj\Debug\netcoreapp3.1\DecimoSegundoDia.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\obj\Debug\netcoreapp3.1\DecimoSegundoDia.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\DecimoSegundoDia.exe
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\DecimoSegundoDia.dll.config
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\DecimoSegundoDia.deps.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\DecimoSegundoDia.runtimeconfig.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\DecimoSegundoDia.runtimeconfig.dev.json
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\DecimoSegundoDia.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\DecimoSegundoDia.pdb
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\obj\Debug\netcoreapp3.1\DecimoSegundoDia.csproj.CopyComplete
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoSegundoDia\obj\Debug\netcoreapp3.1\DecimoSegundoDia.genruntimeconfig.cache
