@@ -41,3 +41,4 @@ D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\obj\Debug\netcoreapp
 D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\obj\Debug\netcoreapp3.1\DecimoTerceiroDia.dll
 D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\obj\Debug\netcoreapp3.1\DecimoTerceiroDia.pdb
 D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\obj\Debug\netcoreapp3.1\DecimoTerceiroDia.genruntimeconfig.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\DecimoTerceiroDia\obj\Debug\netcoreapp3.1\DecimoTerceiroDia.csprojAssemblyReference.cache

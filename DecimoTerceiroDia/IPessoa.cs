@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DecimoTerceiroDia
+namespace DecimoQuintoDia
 {
     public interface IPessoa
     {

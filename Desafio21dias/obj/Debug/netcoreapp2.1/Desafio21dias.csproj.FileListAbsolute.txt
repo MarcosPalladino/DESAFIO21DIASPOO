@@ -31,3 +31,4 @@ D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21dias\obj\Debug\netcoreapp2.1\
 D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.dll
 D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.pdb
 D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.genruntimeconfig.cache
+D:\GitHub Controle\repos\DESAFIO21DIASPOO\Desafio21dias\obj\Debug\netcoreapp2.1\Desafio21dias.csprojAssemblyReference.cache

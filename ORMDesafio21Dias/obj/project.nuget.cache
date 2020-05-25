@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g8IlXGmfAJ54MCCIdkH5WkXnpJRInDtC/Arhzfq/GNCNPJm1zbyghiSorrgv9a6wTpyoBjKzGs6V7AW2yiQlyQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub Controle\\repos\\DESAFIO21DIASPOO\\ORMDesafio21Dias\\ORMDesafio21Dias.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MarcosPalladino\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

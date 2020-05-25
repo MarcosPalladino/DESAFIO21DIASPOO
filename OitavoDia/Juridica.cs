@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DecimoTerceiroDia
+namespace DecimoQuintoDia
 {
     public class Juridica : Pessoa
     {

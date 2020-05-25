@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using DecimoTerceiroDia;
+using DecimoQuintoDia;
 
-namespace DecimoTerceiroDia
+namespace DecimoQuintoDia
 {
     class Program
     {
